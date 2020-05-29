@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USLocations", "USLocations\USLocations.csproj", "{F1254B14-014C-40B0-AF04-EEEF5C408866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zipcode", "Zipcode\Zipcode.csproj", "{851BBE27-AC47-4B57-86FA-A28C7396880D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1254B14-014C-40B0-AF04-EEEF5C408866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1254B14-014C-40B0-AF04-EEEF5C408866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1254B14-014C-40B0-AF04-EEEF5C408866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1254B14-014C-40B0-AF04-EEEF5C408866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851BBE27-AC47-4B57-86FA-A28C7396880D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851BBE27-AC47-4B57-86FA-A28C7396880D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851BBE27-AC47-4B57-86FA-A28C7396880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851BBE27-AC47-4B57-86FA-A28C7396880D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
